@@ -1,0 +1,6 @@
+C:\Users\Nolan Pawelski\Desktop\RepeatableRepeatPhrase\bin\Debug\RepeatableRepeatPhrase.exe.config
+C:\Users\Nolan Pawelski\Desktop\RepeatableRepeatPhrase\bin\Debug\RepeatableRepeatPhrase.exe
+C:\Users\Nolan Pawelski\Desktop\RepeatableRepeatPhrase\bin\Debug\RepeatableRepeatPhrase.pdb
+C:\Users\Nolan Pawelski\Desktop\RepeatableRepeatPhrase\obj\Debug\RepeatableRepeatPhrase.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\RepeatableRepeatPhrase\obj\Debug\RepeatableRepeatPhrase.exe
+C:\Users\Nolan Pawelski\Desktop\RepeatableRepeatPhrase\obj\Debug\RepeatableRepeatPhrase.pdb

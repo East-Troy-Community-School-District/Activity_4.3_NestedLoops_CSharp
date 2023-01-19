@@ -1,0 +1,6 @@
+C:\Users\Nolan Pawelski\Desktop\NestedLoops1\bin\Debug\NestedLoops1.exe.config
+C:\Users\Nolan Pawelski\Desktop\NestedLoops1\bin\Debug\NestedLoops1.exe
+C:\Users\Nolan Pawelski\Desktop\NestedLoops1\bin\Debug\NestedLoops1.pdb
+C:\Users\Nolan Pawelski\Desktop\NestedLoops1\obj\Debug\NestedLoops1.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\NestedLoops1\obj\Debug\NestedLoops1.exe
+C:\Users\Nolan Pawelski\Desktop\NestedLoops1\obj\Debug\NestedLoops1.pdb

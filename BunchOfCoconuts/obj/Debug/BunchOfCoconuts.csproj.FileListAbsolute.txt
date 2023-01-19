@@ -1,0 +1,6 @@
+C:\Users\Nolan Pawelski\Desktop\BunchOfCoconuts\bin\Debug\BunchOfCoconuts.exe.config
+C:\Users\Nolan Pawelski\Desktop\BunchOfCoconuts\bin\Debug\BunchOfCoconuts.exe
+C:\Users\Nolan Pawelski\Desktop\BunchOfCoconuts\bin\Debug\BunchOfCoconuts.pdb
+C:\Users\Nolan Pawelski\Desktop\BunchOfCoconuts\obj\Debug\BunchOfCoconuts.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\BunchOfCoconuts\obj\Debug\BunchOfCoconuts.exe
+C:\Users\Nolan Pawelski\Desktop\BunchOfCoconuts\obj\Debug\BunchOfCoconuts.pdb

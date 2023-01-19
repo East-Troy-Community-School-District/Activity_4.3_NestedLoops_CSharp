@@ -1,0 +1,10 @@
+C:\Users\Nolan Pawelski\Desktop\GUIDots\bin\Debug\GUIDots.exe.config
+C:\Users\Nolan Pawelski\Desktop\GUIDots\bin\Debug\GUIDots.exe
+C:\Users\Nolan Pawelski\Desktop\GUIDots\bin\Debug\GUIDots.pdb
+C:\Users\Nolan Pawelski\Desktop\GUIDots\obj\Debug\GUIDots.csproj.AssemblyReference.cache
+C:\Users\Nolan Pawelski\Desktop\GUIDots\obj\Debug\GUIDots.GUIDotsForm.resources
+C:\Users\Nolan Pawelski\Desktop\GUIDots\obj\Debug\GUIDots.Properties.Resources.resources
+C:\Users\Nolan Pawelski\Desktop\GUIDots\obj\Debug\GUIDots.csproj.GenerateResource.cache
+C:\Users\Nolan Pawelski\Desktop\GUIDots\obj\Debug\GUIDots.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\GUIDots\obj\Debug\GUIDots.exe
+C:\Users\Nolan Pawelski\Desktop\GUIDots\obj\Debug\GUIDots.pdb
