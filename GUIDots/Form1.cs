@@ -1,7 +1,8 @@
 ﻿/*
  * GUI Dots
- * 1/18/2023
- * C#.NET I
+ * Pawelski
+ * 10/8/2023
+ * Developing Desktop Applications
  * 
  * Instructions:
  * Run the program and see what it does. Be prepared to discuss
