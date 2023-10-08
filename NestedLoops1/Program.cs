@@ -1,7 +1,8 @@
 ﻿/*
  * Nested Loops 1
- * 1/18/2023
- * C#.NET I
+ * Pawelski
+ * 10/8/2023
+ * Developing Desktop Applications
  * 
  * Instructions:
  * Trace the program and predict what it will display. Then run the program to
